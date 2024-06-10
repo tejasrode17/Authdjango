@@ -1,0 +1,2 @@
+# Authdjango
+Django application
